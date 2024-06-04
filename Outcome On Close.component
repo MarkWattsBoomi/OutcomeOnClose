@@ -1,0 +1,21 @@
+{
+    "key":"outcomeonclose",
+    "legacyScriptURL":"http://localhost:8080/oooc_leg.js",
+    "scriptURL":"http://localhost:8080/oooc_ng.js",
+    "legacyStyleSheetURL":"",
+    "styleSheetURL":"",
+    "icon":"Alarm",
+    "attributes":{},
+    "configurationEditors":[],
+    "designTimeImageURL":null,
+    "designTimeRenderType":"HIDDEN",
+    "dateCreated":"2024-06-04T14:46:08.5581664+00:00",
+    "dateModified":"2024-06-04T14:46:08.5581676+00:00",
+    "id":"729dea04-d907-4953-8c99-c0dff00e0d69",
+    "elementType":"CUSTOM_PAGE_COMPONENT",
+    "developerName":"Outcome On Close",
+    "developerSummary":"Triggers the first attached outcome when page closes",
+    "whoCreated":{"id":"4e027512-3134-4403-91c2-227e8256a7f0","firstName":"Mark","lastName":"Watts","email":"markwatts@boomi.com"},
+    "whoModified":{"id":"4e027512-3134-4403-91c2-227e8256a7f0","firstName":"Mark","lastName":"Watts","email":"markwatts@boomi.com"},
+    "whoOwner":{"id":"4e027512-3134-4403-91c2-227e8256a7f0","firstName":"Mark","lastName":"Watts","email":"markwatts@boomi.com"}
+}
